@@ -1,0 +1,7 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\FacadeDemo\FacadeDemo\bin\Debug\FacadeDemo.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\FacadeDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
